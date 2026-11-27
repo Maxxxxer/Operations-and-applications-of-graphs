@@ -90,4 +90,4 @@ data/tests/                     Additional test data
 build.gradle                    Build and dependencies
 ```
 
-See the [project description](https://ubc-ece.craft.me/rATkzlhgvx5elK), [terrain attribution](data/terrains/ATTRIBUTION.txt), [AI use disclosure](ai_use_disclosure.pdf), and [reflection](reflection.pdf) for supporting material.
+See the [project description](https://ubc-ece.craft.me/rATkzlhgvx5elK), [terrain attribution](data/terrains/ATTRIBUTION.txt) and [reflection](reflection.pdf) for supporting material.
